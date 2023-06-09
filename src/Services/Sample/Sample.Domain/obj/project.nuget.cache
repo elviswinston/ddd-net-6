@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UtDLCkJPoAnifFChbo2lKDFySVZHWAV3rncyZd1cdSeGIXf4kn/FeGE/3zg8jxkBFKDj70PICn4uNCYXPOHpA==",
+  "success": true,
+  "projectFilePath": "E:\\DDD Sample\\SampleProject\\src\\Services\\Sample\\Sample.Domain\\Sample.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elvis\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

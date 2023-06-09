@@ -1,0 +1,15 @@
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\bin\Debug\net6.0\Sample.Application.deps.json
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\bin\Debug\net6.0\Sample.Application.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\bin\Debug\net6.0\Sample.Application.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.csproj.AssemblyReference.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.AssemblyInfoInputs.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.AssemblyInfo.cs
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.csproj.CoreCompileInputs.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\refint\Sample.Application.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\ref\Sample.Application.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\bin\Debug\net6.0\Sample.Domain.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\bin\Debug\net6.0\Sample.Domain.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Application\obj\Debug\net6.0\Sample.Application.csproj.CopyComplete

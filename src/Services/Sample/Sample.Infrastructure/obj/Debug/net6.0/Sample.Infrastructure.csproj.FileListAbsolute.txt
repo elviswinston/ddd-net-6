@@ -1,0 +1,17 @@
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\bin\Debug\net6.0\Sample.Infrastructure.deps.json
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\bin\Debug\net6.0\Sample.Infrastructure.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\bin\Debug\net6.0\Sample.Infrastructure.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.csproj.AssemblyReference.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.AssemblyInfoInputs.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.AssemblyInfo.cs
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.csproj.CoreCompileInputs.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\refint\Sample.Infrastructure.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\ref\Sample.Infrastructure.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\bin\Debug\net6.0\Sample.Application.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\bin\Debug\net6.0\Sample.Domain.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\bin\Debug\net6.0\Sample.Application.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\bin\Debug\net6.0\Sample.Domain.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Infrastructure\obj\Debug\net6.0\Sample.Infrastructure.csproj.CopyComplete

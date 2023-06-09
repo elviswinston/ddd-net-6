@@ -1,0 +1,12 @@
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.deps.json
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.csproj.AssemblyReference.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.AssemblyInfoInputs.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.AssemblyInfo.cs
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.csproj.CoreCompileInputs.cache
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\refint\Sample.Contracts.dll
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\Sample.Contracts.pdb
+E:\DDD Sample\SampleProject\src\Services\Sample\Sample.Contracts\obj\Debug\net6.0\ref\Sample.Contracts.dll
